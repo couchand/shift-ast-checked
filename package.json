@@ -1,0 +1,15 @@
+{
+  "name": "shift-ast-checked",
+  "version": "0.0.1",
+  "description": "a typechecking wrapper around shift-ast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Couch <shift-ast-checked@andrewcou.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "shift-ast": "^3.0.0",
+    "shift-spec": "^2015.2.0"
+  }
+}
